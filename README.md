@@ -4,7 +4,14 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 First, run the development server:
 
+
+
 ```bash
+
+# To clone this repo open your folder integrated terminal where you want to add this file and enter this command
+git clone https://github.com/vinsmoke0003/Testimonial_Next_JS
+
+# There is new folder created inside that folder and open that folder in your IDE(Where you code) and then run this :-
 npm run dev
 # or
 yarn dev
